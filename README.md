@@ -143,7 +143,7 @@ Run via `python src/evaluate.py` (full transcript in `documents/eval_results.txt
 | 4 | Can I be self-employed on OPT, and does it differ for STEM OPT? | Allowed on OPT w/ conditions; barred on STEM (needs employer + E-Verify + I-983) | Yes on OPT w/ conditions; not permitted on STEM OPT | Relevant (0.23) | Accurate |
 | 5 | Do I need an EIN to file taxes as a freelancer on OPT? | No, optional for a sole proprietor; getting one doesn't violate status | Declined: "I don't have enough information on that." | Off-target (0.46-0.57) | **Inaccurate (failure)** |
 
-A secondary limitation worth noting: Q4's correct answer was drawn entirely from the *unofficial* attorney source (RJ Immigration); the official USCIS/8 CFR self-employment language did not surface in the top-5, so a policy claim the domain would prefer to ground in official text is grounded in commentary.
+A second limitation: Q4's correct answer was drawn entirely from the *unofficial* attorney source (RJ Immigration); the official USCIS/8 CFR self-employment language did not surface in the top-5, so a policy claim the domain would prefer to ground in official text is grounded in commentary.
 ---
 
 ## Spec Reflection
