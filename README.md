@@ -36,8 +36,8 @@ The same report records a failure: a question about EIN requirements for freelan
 Requires Python 3 and a free Groq API key.
 
 ```bash
-git clone https://github.com/Ned-Ibrahim/ai201-unofficial-guide.git
-cd ai201-unofficial-guide
+git clone https://github.com/Ned-Ibrahim/unofficial-guide.git
+cd unofficial-guide
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env        # then set GROQ_API_KEY in .env
