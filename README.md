@@ -72,6 +72,8 @@ This system combines two layers:
 
 Every answer must identify which layer each claim comes from. Unofficial sources inform practical orientation only; official sources take precedence when they conflict. This guide is informational, not legal or immigration advice.
 
+Where the code stands today: every chunk carries its layer (`source_type`), and each answer lists its sources by name and link. The app does not yet print an Official or Unofficial label next to each claim, so a reader has to check the source list.
+
 ---
 
 ## Document Sources
